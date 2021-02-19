@@ -2748,7 +2748,7 @@ svg {
 } */
 @font-face {
   font-family: "CervoMedium";
-  src: url(/assets/fonts/CervoMedium.woff) format("woff");
+  src: url(../fonts/CervoMedium.woff) format("woff");
   font-style: normal;
   font-weight: normal;
 }
@@ -2846,7 +2846,7 @@ svg {
 } */
 @font-face {
   font-family: "SkolarCyrillicRegular";
-  src: url(/assets/fonts/SkolarCyrillicRegular.woff) format("woff");
+  src: url(../fonts/SkolarCyrillicRegular.woff) format("woff");
   font-style: normal;
   font-weight: normal;
 }
