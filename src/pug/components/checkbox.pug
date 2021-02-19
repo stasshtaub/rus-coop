@@ -1,0 +1,5 @@
+mixin checkbox(inputName, required = false)
+    label.checkbox&attributes(attributes)
+        block
+        input(type="checkbox" name= inputName required= required).checkbox__input
+        span.checkbox__mark

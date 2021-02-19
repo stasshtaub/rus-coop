@@ -1,0 +1,18 @@
+.form-control {
+  font-family: "SkolarCyrillicRegular", sans-serif;
+  font-size: 15px;
+  letter-spacing: 0.504px;
+  color: #261c00;
+  padding: 12px 15px 8px 15px;
+  border-radius: 2px;
+  background-color: #eeeeee;
+  outline: none;
+  border: none;
+  width: 100%;
+  box-sizing: border-box;
+  display: block;
+
+  &__textarea {
+    resize: vertical;
+  }
+}
